@@ -1,0 +1,6 @@
+make
+.\app.exe
+make clean
+make debug
+.\app.exe
+make clean
